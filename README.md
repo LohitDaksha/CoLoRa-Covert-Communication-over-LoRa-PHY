@@ -21,4 +21,4 @@ Use the following command on terminal:
 
 
 > [!NOTE]
-> To Reproduce exact results use NM $\geq 10 ^{4}$.
+> To Reproduce exact results use NUMBER_OF_MESSAGES $\geq 10 ^{4}$.
