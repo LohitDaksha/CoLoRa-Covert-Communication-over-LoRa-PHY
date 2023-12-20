@@ -1,1 +1,1 @@
-# CoLoRa-Covert-Communication-over-LoRa-PHY
+# CoLoRa: Covert Communication over LoRa PHY
