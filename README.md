@@ -11,7 +11,7 @@ Python        | 3.9
 Numpy         | 1.23 and above
 
 # Running the Simulator *Simulator.py*
-![Images/1.png](https://github.com/LohitDaksha/CoLoRa-Covert-Communication-over-LoRa-PHY/blob/main/Images/1.png?raw=true)
+![Images/1.png](Images/1.png?raw=true)
 
 > On terminal:
 > python Simulator.py MODUALTION_INDEX NUMBER_OF_MESSAGES SNR DISTANCE
