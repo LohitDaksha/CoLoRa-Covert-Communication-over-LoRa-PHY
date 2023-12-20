@@ -1,0 +1,10 @@
+Bit Error Rate = 0.4063355327468233 for SNR = 3, modulation index = 2, fraction of messages demodulated sucessfully = 0.123 Distance = 100 
+
+Bit Error Rate = 0.35537878787878785 for SNR = 3, modulation index = 2, fraction of messages demodulated sucessfully = 0.08999999999999997 Distance = 100 
+
+Bit Error Rate = 0.17385238523852392 for SNR = 30, modulation index = 2, fraction of messages demodulated sucessfully = 1.0 Distance = 100 
+
+Bit Error Rate = 0.3350505050505051 for SNR = 9, modulation index = 2, fraction of messages demodulated sucessfully = 0.39 Distance = 1000 
+
+Bit Error Rate = 0.3505599472990776 for SNR = 6, modulation index = 2, fraction of messages demodulated sucessfully = 0.20599999999999996 Distance = 250 
+
