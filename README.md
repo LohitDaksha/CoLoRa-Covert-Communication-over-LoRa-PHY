@@ -10,9 +10,10 @@ Name          | Version
 Python        | 3.9
 Numpy         | 1.23 and above
 
-# Running the Simulator *Simulator.py*
+# Running the Simulator -- *Simulator.py*
 ![Images/1.png](Images/1.png?raw=true)
 
+Use the following command on terminal:
 > python Simulator.py MODUALTION_INDEX NUMBER_OF_MESSAGES SNR DISTANCE
 
 
