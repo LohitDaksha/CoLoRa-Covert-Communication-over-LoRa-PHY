@@ -13,6 +13,8 @@ Numpy         | 1.23 and above
 # Running the Simulator *Simulator.py*
 ![Images/1.png](https://github.com/LohitDaksha/CoLoRa-Covert-Communication-over-LoRa-PHY/blob/main/Images/1.png?raw=true)
 
+> python Simulator.py <MODUALTION_INDEX> <NUMBER OF MESSAGES> <SNR> <DISTANCE>
+
 
 # Reproducing Results
 
