@@ -11,7 +11,7 @@ Python        | 3.9
 Numpy         | 1.23 and above
 
 # Running the Simulator *Simulator.py*
-![alt text](https://github.com/LohitDaksha/CoLoRa-Covert-Communication-over-LoRa-PHY/blob/main/Images/1.png?raw=true)
+![Images/1.png](https://github.com/LohitDaksha/CoLoRa-Covert-Communication-over-LoRa-PHY/blob/main/Images/1.png?raw=true)
 
 
 # Reproducing Results
